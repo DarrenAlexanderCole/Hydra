@@ -273,11 +273,6 @@ Run development server
 yarn dev
 ```
 
-## To Test
-Run test
-```
-shape(3.7,.2).modulateScrollY(o2,Math*.3).blend(o1).out(o3) 
-```
 
 
 ## Audio Responsiveness 
